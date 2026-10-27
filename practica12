@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Arrolladora Banda El Limón</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>La Arrolladora Banda El Limón</h1>
+        <p>El sentimiento y la pasión de la banda sinaloense</p>
+    </header>
+
+    <nav>
+        <a href="#historia">Historia</a>
+        <a href="#galeria">Galería</a>
+        <a href="#musica">Música</a>
+        <a href="#datos">Datos curiosos</a>
+    </nav>
+
+    <main>
+        <article>
+            <section id="historia">
+                <h2>Historia de la banda</h2>
+
+                <p>
+                    La Arrolladora Banda El Limón de René Camacho
+                    es una agrupación mexicana de música regional
+                    mexicana originaria de Sinaloa. Su nombre está
+                    relacionado con El Limón de los Peraza, un pueblo
+                    sinaloense. Con el paso de los años, la agrupación
+                    se ha convertido en una de las bandas reconocidas
+                    por su estilo musical y sus presentaciones.
+                </p>
+
+                <p>
+                    Su música combina sonidos de banda sinaloense
+                    con canciones románticas, rancheras y otros ritmos.
+                    A lo largo de su trayectoria ha lanzado numerosas
+                    producciones y canciones que han sido escuchadas
+                    por sus seguidores en México y otros países.
+                    René Camacho es su fundador y director, y la banda
+                    continúa compartiendo su música con el público.
+                </p>
+            </section>
+
+            <section id="galeria">
+                <h2>Galería de imágenes</h2>
+
+                <div class="galeria">
+                    <img
+                        src="https://placehold.co/600x400/252525/D4AF37?text=La+Arrolladora"
+                        alt="Imagen representativa de La Arrolladora">
+
+                    <img
+                        src="https://placehold.co/600x400/30251D/FFFFFF?text=Banda+Sinaloense"
+                        alt="Imagen representativa de la banda sinaloense">
+
+                    <img
+                        src="https://placehold.co/600x400/181818/D4AF37?text=Musica+Regional"
+                        alt="Imagen representativa de la música regional">
+                </div>
+
+                <p class="nota">
+                    Estas son imágenes provisionales. Después puedes
+                    cambiarlas por fotografías de la banda.
+                </p>
+            </section>
+
+            <section id="musica">
+                <h2>Video musical</h2>
+
+                <p>
+                    Mira contenido musical de La Arrolladora en
+                    su canal oficial.
+                </p>
+
+                <a class="boton"
+                   href="https://www.youtube.com/results?search_query=La+Arrolladora+Banda+El+Limon+canal+oficial"
+                   target="_blank" rel="noopener noreferrer">
+                    Ver videos en YouTube
+                </a>
+
+                <h2>Audio</h2>
+
+                <p>
+                    Escucha las canciones de la agrupación en su
+                    página oficial.
+                </p>
+
+                <a class="boton"
+                   href="https://www.laarrolladora.com/"
+                   target="_blank" rel="noopener noreferrer">
+                    Escuchar música
+                </a>
+            </section>
+
+            <section id="datos">
+                <h2>Datos curiosos</h2>
+
+                <ul>
+                    <li>Su director y fundador es René Camacho.</li>
+                    <li>La banda tiene sus raíces en Sinaloa, México.</li>
+                    <li>Su estilo incluye canciones románticas y rancheras.</li>
+                    <li>Cuenta con una amplia trayectoria musical.</li>
+                    <li>Sus canciones se escuchan en México y Estados Unidos.</li>
+                </ul>
+
+                <h2>Conoce más</h2>
+
+                <p>
+                    Visita la página oficial para conocer más sobre
+                    su música, integrantes y novedades.
+                </p>
+
+                <a href="https://www.laarrolladora.com/"
+                   target="_blank" rel="noopener noreferrer">
+                    Página oficial de La Arrolladora
+                </a>
+            </section>
+        </article>
+    </main>
+
+    <footer>
+        <p>Proyecto escolar realizado en equipo.</p>
+        <p>Práctica 12: Nuestra banda favorita</p>
+    </footer>
+</body>
+</html>
